@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**tornes231088/tornes231088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Developer in Simplexo**
 
-Here are some ideas to get you started:
+:email: **Correo electornico:** [nestor2310@gmail.com](mailto:nestor2310@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vias de contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%A9stor-iv%C3%A1n-calder%C3%B3n-villamizar-bb7741207/)
+
+
+### 🖥️ **Languages**
+
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
